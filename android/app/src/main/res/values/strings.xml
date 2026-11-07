@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The School</string>
+    <string name="school_tagline">Modern School Management ERP</string>
+    <string name="offline_title">No Internet Connection</string>
+    <string name="offline_message">Please check your Wi-Fi or mobile data connection and try again.</string>
+    <string name="btn_retry">Retry Connection</string>
+    <string name="loading">Loading The School ERP...</string>
+    <string name="exit_prompt">Press back again to exit</string>
+    <string name="file_provider_authority">com.theschool.erp.fileprovider</string>
+</resources>
